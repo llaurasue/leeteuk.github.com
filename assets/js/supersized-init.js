@@ -21,11 +21,11 @@ jQuery(function($){
         slide_links        : 'blank',    // Individual links for each slide (Options: false, 'num', 'name', 'blank')
         slides             : [    // Slideshow Images
 
-                                 {image : '../assets/img/backgrounds/019.jpg'},
-                                 {image : '../assets/img/backgrounds/028.jpg'},
-                                 {image : '../assets/img/backgrounds/025.jpg'},
+                                 {image : '../assets/img/backgrounds/001.jpg'},
+                                 //{image : '../assets/img/backgrounds/028.jpg'},
+                                 //{image : '../assets/img/backgrounds/025.jpg'},
                                 // {image : '../assets/img/backgrounds/029.jpg'},
-                                 {image : '../assets/img/backgrounds/032.jpg'}
+                                 //{image : '../assets/img/backgrounds/032.jpg'}
                              ]
 
     });
