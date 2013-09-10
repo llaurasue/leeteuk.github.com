@@ -3,7 +3,7 @@
 */
 $(function() {
     var now = new Date();
-    var end = new Date('29 Jul 2014 1:00 PM PDT');
+    var end = new Date('4 January 2014 8:00 PM PDT');
     //var countTo = 529 * 24 * 60 * 60 * 1000 + now.valueOf();
     var countTo = end.valueOf()
     $('.timer').countdown(countTo, function(event) {
