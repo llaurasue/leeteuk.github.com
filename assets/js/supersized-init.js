@@ -22,10 +22,10 @@ jQuery(function($){
         slides             : [    // Slideshow Images
 
                                  {image : '../assets/img/backgrounds/101.jpg'},
-                                 {image : '../assets/img/backgrounds/102.jpg'}
-                                 //{image : '../assets/img/backgrounds/025.jpg'},
-                                // {image : '../assets/img/backgrounds/029.jpg'},
-                                 //{image : '../assets/img/backgrounds/032.jpg'}
+                                 {image : '../assets/img/backgrounds/102.jpg'},
+                                 {image : '../assets/img/backgrounds/103.jpg'},
+                                 {image : '../assets/img/backgrounds/104.jpg'},
+                                 {image : '../assets/img/backgrounds/105.jpg'}
                              ]
 
     });
